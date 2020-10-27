@@ -1,0 +1,20 @@
+{
+    "Author": "Gary Gallanes [MSFT]",
+    "ContentSize": 2893,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azurestack-automation-validate-and-set-default-image/master/Set-AzSDefaultImage.ps1",
+    "DownloadCount": 556,
+    "Id": "Azure-Stack-Validate-and-c139ec74",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 294,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-5-18T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "DESCRIPTION: For Azure AD enabled TP3 refresh only! Sets PowerSHell Execution Policy, Import AzureStack & AzureStack-Tools Modules, set AzureStackAdmin ARM Endpoint & add AzureRmAccount, sets & validates parameters and runs New-Server2016VMImage Cmdlet.",
+    "Title": "AzureStack Automation: Validate and Set Default Image",
+    "UpdatedDate": "2018-9-11T00:00:00",
+    "Url": "https://github.com/azureautomation/azurestack-automation-validate-and-set-default-image",
+    "UserTags": "Powershell, Powershell Script, Azure Stack"
+}
